@@ -1,0 +1,2 @@
+D:\XNA Projects\Maybe You will finish this one\Project Files\GladiatorContent\obj\x86\Debug\GladiatorContent.contentprojResolveAssemblyReference.cache
+C:\Users\mrfly\Desktop\Gladiator\Project Files\GladiatorContent\obj\x86\Debug\GladiatorContent.contentprojResolveAssemblyReference.cache

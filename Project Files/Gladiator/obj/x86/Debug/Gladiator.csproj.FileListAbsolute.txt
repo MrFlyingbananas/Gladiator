@@ -1,0 +1,190 @@
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\white.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\player.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\zombie.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\arena_background.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\heart.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\powerups.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\skeleton.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\bullet.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\tutpic.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\gameFont.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\GameOverFont.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\KillCountFont.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\GameOverButtonFont.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\MainMenuButtonFont.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\MainMenuTitleFont.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\PauseMenuFont.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\PauseMenuButtonFont.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\MainMenuSliderFont.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\TutorialOkayButtonFont.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\BasicGunshot.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\BowShot.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\grunt.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\bone.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\zombiehit.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\endsound.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\rain.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\click.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\shotgun.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\endwavetone.xnb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Maybe_You_will_finish_this_one.exe.manifest
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Maybe_You_will_finish_this_one.application
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Maybe_You_will_finish_this_one.exe
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Maybe_You_will_finish_this_one.pdb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Microsoft.Xna.Framework.dll
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Microsoft.Xna.Framework.xml
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\obj\x86\Debug\Gladiator.csprojResolveAssemblyReference.cache
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\obj\x86\Debug\Maybe_You_will_finish_this_one.exe.manifest
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\obj\x86\Debug\Maybe_You_will_finish_this_one.application
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\obj\x86\Debug\Maybe_You_will_finish_this_one.exe
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\obj\x86\Debug\Maybe_You_will_finish_this_one.pdb
+G:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\grunt.wav
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\obj\x86\Debug\Maybe_You_will_finish_this_one.exe
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\obj\x86\Debug\Maybe_You_will_finish_this_one.pdb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\player.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\zombie.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\arena_background.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\heart.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\powerups.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\skeleton.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\bullet.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\tutpic.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\white.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\BasicGunshot.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\BowShot.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\grunt.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\bone.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\zombiehit.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\endsound.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\rain.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\click.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\shotgun.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\endwavetone.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\gameFont.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\GameOverButtonFont.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\GameOverFont.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\KillCountFont.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\MainMenuButtonFont.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\MainMenuSliderFont.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\MainMenuTitleFont.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\PauseMenuButtonFont.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\PauseMenuFont.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\TutorialOkayButtonFont.xnb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\grunt.wav
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\obj\x86\Debug\Gladiator.csprojResolveAssemblyReference.cache
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Maybe_You_will_finish_this_one.exe.manifest
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Maybe_You_will_finish_this_one.application
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Maybe_You_will_finish_this_one.exe
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Maybe_You_will_finish_this_one.pdb
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\obj\x86\Debug\Maybe_You_will_finish_this_one.exe.manifest
+F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\obj\x86\Debug\Maybe_You_will_finish_this_one.application
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\obj\x86\Debug\Gladiator.csprojResolveAssemblyReference.cache
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\obj\x86\Debug\Gladiator.exe
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\obj\x86\Debug\Gladiator.pdb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\player.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\zombie.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\arena_background.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\heart.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\powerups.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\skeleton.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\bullet.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\tutpic.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\white.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\BasicGunshot.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\BowShot.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\grunt.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\bone.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\zombiehit.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\endsound.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\rain.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\click.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\shotgun.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\endwavetone.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\gameFont.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\GameOverButtonFont.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\GameOverFont.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\KillCountFont.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\MainMenuButtonFont.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\MainMenuSliderFont.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\MainMenuTitleFont.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\PauseMenuButtonFont.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\PauseMenuFont.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\TutorialOkayButtonFont.xnb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Content\grunt.wav
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Gladiator.exe.manifest
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Gladiator.application
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Gladiator.exe
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Gladiator.pdb
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\obj\x86\Debug\Gladiator.exe.manifest
+D:\XNA Projects\Maybe You will finish this one\Project Files\Gladiator\obj\x86\Debug\Gladiator.application
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\player.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\zombie.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\arena_background.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\heart.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\powerups.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\skeleton.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\bullet.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\tutpic.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\white.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\BasicGunshot.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\BowShot.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\grunt.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\bone.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\zombiehit.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\endsound.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\rain.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\click.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\shotgun.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\endwavetone.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\GameOverButtonFont.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\GameOverFont.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\KillCountFont.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\MainMenuButtonFont.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\MainMenuSliderFont.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\MainMenuTitleFont.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\PauseMenuButtonFont.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\PauseMenuFont.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\TutorialOkayButtonFont.xnb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Content\grunt.wav
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Gladiator.exe.manifest
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Gladiator.application
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Gladiator.exe
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Gladiator.pdb
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\obj\x86\Debug\Gladiator.csprojResolveAssemblyReference.cache
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\obj\x86\Debug\Gladiator.exe.manifest
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\obj\x86\Debug\Gladiator.application
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\obj\x86\Debug\Gladiator.exe
+C:\Users\mrfly\Desktop\Gladiator\Project Files\Gladiator\obj\x86\Debug\Gladiator.pdb

@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2016-05-16T14:18:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>zombie.png</Source>
+      <Name>zombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\zombie.xnb</Output>
+      <Time>2016-05-20T13:36:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>arena_background.png</Source>
+      <Name>arena_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\arena_background.xnb</Output>
+      <Time>2016-05-20T13:11:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>heart.png</Source>
+      <Name>heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\heart.xnb</Output>
+      <Time>2016-05-20T13:36:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>powerups.png</Source>
+      <Name>powerups</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\powerups.xnb</Output>
+      <Time>2016-05-27T03:06:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>skeleton.png</Source>
+      <Name>skeleton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\skeleton.xnb</Output>
+      <Time>2016-05-20T13:36:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2016-05-26T23:44:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tutpic.png</Source>
+      <Name>tutpic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\tutpic.xnb</Output>
+      <Time>2016-05-27T21:28:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>white.png</Source>
+      <Name>white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\white.xnb</Output>
+      <Time>2016-04-19T14:12:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BasicGunshot.wav</Source>
+      <Name>BasicGunshot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\BasicGunshot.xnb</Output>
+      <Time>2016-05-27T01:05:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BowShot.wav</Source>
+      <Name>BowShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\BowShot.xnb</Output>
+      <Time>2016-05-27T01:08:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>grunt.wav</Source>
+      <Name>grunt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\grunt.xnb</Output>
+      <Time>2016-05-27T01:14:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bone.wav</Source>
+      <Name>bone</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\bone.xnb</Output>
+      <Time>2016-05-27T01:33:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>zombiehit.wav</Source>
+      <Name>zombiehit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\zombiehit.xnb</Output>
+      <Time>2016-05-27T01:38:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>endsound.wav</Source>
+      <Name>endsound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\endsound.xnb</Output>
+      <Time>2016-05-27T02:09:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>rain.wav</Source>
+      <Name>rain</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\rain.xnb</Output>
+      <Time>2016-05-27T02:01:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>click.wav</Source>
+      <Name>click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\click.xnb</Output>
+      <Time>2016-05-27T02:15:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>shotgun.wav</Source>
+      <Name>shotgun</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\shotgun.xnb</Output>
+      <Time>2016-05-27T03:17:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>endwavetone.wav</Source>
+      <Name>endwavetone</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\endwavetone.xnb</Output>
+      <Time>2016-05-27T16:34:58-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_oneContent\</RootDirectory>
+      <LoggerRootDirectory>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_oneContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\XNA Projects\Maybe You will finish this one\Maybe You will finish this one\Maybe_You_will_finish_this_one\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-04-29T07:56:17.6113824-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
